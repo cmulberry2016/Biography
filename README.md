@@ -7,4 +7,4 @@
 - 💬 Ask me about my music production and backpacking adventures 
 - 📫 How to reach me: book time with me at https://calendly.com/chrismulberry/30min
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid travel, moving over 29 times to date and I share the same birthday as my 78 year old grandfather!
+- ⚡ Fun fact: I'm an avid traveler, having moved over 29 times to date and I share the same birthday as my 78 year old grandfather!
