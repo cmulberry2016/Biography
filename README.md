@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 - 🔭 I’m currently working on consumer and enterprise Augmented Reality & Mixed Reality projects
-- 🌱 I’m currently learning Machine Learning development with TensorFlow & Google Cloud
+- 🌱 I’m currently working on a passionate project (Vibed) to hone my full-stack software engineering abilities
 - 🤝 I’m looking to collaborate on projects related to EdTech, CleanTech and Internet-of-Things
 - 🤔 I’m looking for assistance with business administration 
 - 💬 Ask me about my music production and backpacking adventures 
