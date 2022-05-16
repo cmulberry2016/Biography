@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 - 🔍 My career focus is in consumer and enterprise Augmented Reality & Mixed Reality
-- 🌱 I’m honing my full-stack software engineering abilities through a passionate project (Vibed)
+- 🌱 I’m honing my full-stack software engineering abilities through a passion project (Vibed)
 - 🤝 I’m looking to collaborate on projects related to EdTech, CleanTech and Internet-of-Things
 - 🤔 I’m looking for assistance with business administration 
 - 💬 Ask me about my music production and backpacking adventures 
