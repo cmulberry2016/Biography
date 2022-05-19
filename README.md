@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there, I'm Chris 👋
 
 - 🔍 My career focus is in consumer and enterprise Augmented Reality & Mixed Reality
 - 🌱 I’m honing my full-stack software engineering abilities through a passion project (Vibed)
